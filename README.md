@@ -1,5 +1,5 @@
 ## Hi , I am Shubham Singh Rawat
-<br>🚀 Learning by building. Exploring C, C++ , Java, and web development.
+<br>🚀 Learning by building. Exploring C, C++ , Java, and Web Development.
 🧑‍💻 Actively working on personal projects , Data structures , logic building  and contributing to open source.
 
 
