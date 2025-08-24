@@ -1,5 +1,6 @@
 ## Hi , I am Shubham Singh Rawat
-<br>I'm interested in Web Development.<br>I am Currently working on HTML , CSS3 , JAVASCRIPT , Node js , SQL...
+<br>🚀 Learning by building. Exploring C, C++ , Java, and web development.
+🧑‍💻 Actively working on personal projects , Data structures , logic building  and contributing to open source.
 
 
 ## 🌐 Socials:
