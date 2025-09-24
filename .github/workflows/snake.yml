@@ -1,3 +1,6 @@
+# add under `jobs:` or at top-level of the workflow
+permissions:
+  contents: write
 name: Generate snake
 
 on:
