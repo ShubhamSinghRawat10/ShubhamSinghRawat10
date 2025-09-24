@@ -48,7 +48,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSinghRawat10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+### 🐍 Snake Eating My Github Contributions 
+![snake gif](https://github.com/ShubhamSinghRawat10/ShubhamSinghRawat10/blob/output/github-contribution-grid-snake.svg) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
