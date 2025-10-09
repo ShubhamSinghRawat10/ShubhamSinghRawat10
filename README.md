@@ -51,5 +51,14 @@
 ### 🐍 Snake Eating My Github Contributions 
 ![snake gif](https://github.com/ShubhamSinghRawat10/ShubhamSinghRawat10/blob/output/github-contribution-grid-snake.svg) 
 
+## 🧭 Contribution Journey
 
+<div align="center">
+
+<!-- 🌗 3D Graph for Light/Dark -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-night-green.svg" />
+  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</picture>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
