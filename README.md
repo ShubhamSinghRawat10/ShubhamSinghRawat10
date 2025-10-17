@@ -41,14 +41,21 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
+<h1 align="center">🏆 GitHub Trophies</h1>
+<p align="center"
+ 
+![](https://github-profile-trophy.vercel.app/?username=ShubhamSinghRawat10&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+</p>
 
-### 📊 GitHub Stats
+---
+## 📊 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSinghRawat10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=ShubhamSinghRawat10&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSinghRawat10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  
 ---
-### 🐍 Snake Eating My Github Contributions 
+## 🐍 Snake Eating My Github Contributions 
 ![snake gif](https://github.com/ShubhamSinghRawat10/ShubhamSinghRawat10/blob/output/github-contribution-grid-snake.svg) 
 
 ## 🧭 Contribution Journey
