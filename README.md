@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I’m <b>Shubham Singh Rawat</b> 👋  
+# Hi, I’m <b>Shubham Singh Rawat</b> 👋  
 🚀 Learning by building — exploring C, C++, Java, Web Dev  
 🧑‍💻 Working on personal projects, data structures, logic building & open-source
 
