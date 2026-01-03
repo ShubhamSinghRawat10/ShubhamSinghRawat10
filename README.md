@@ -7,6 +7,11 @@
 </div>
 
 ---
+<h1 align="center">🏆 GitHub Trophies</h1>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsinghrawat10" alt="shubhamsinghrawat10" /></a> </p>
+
+---
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/neox0307_06799)
@@ -41,17 +46,10 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
-<h1 align="center">🏆 GitHub Trophies</h1>
-<p align="center"
-![](https://github-profile-trophy.vercel.app/?username=ShubhamSinghRawat10&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-</p>
+## 📊 GitHub Streak
 
----
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSinghRawat10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=ShubhamSinghRawat10&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSinghRawat10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
   
 ---
 ## 🐍 Snake Eating My Github Contributions 
