@@ -46,6 +46,15 @@
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=ShubhamSinghRawat10&theme=dark&hide_border=false)
 
+---
+### 📊 Profile Stats
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSinghRawat10&theme=tokyonight" width="800">
+
+</div>
+
+---
+
   
 ---
 ## 🐍 Snake Eating My Github Contributions 
@@ -61,4 +70,13 @@
   <img src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </picture>
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
