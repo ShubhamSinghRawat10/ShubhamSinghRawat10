@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hi I'm Shubham Singh Rawat 🌟</b> 👋  
+# 🌟 Hii ! I'm Shubham Singh Rawat 🌟</b> 👋  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
 🚀 Learning by building — exploring C, C++, Java, Web Dev  
 🧑‍💻 Working on personal projects, data structures, logic building & open-source
