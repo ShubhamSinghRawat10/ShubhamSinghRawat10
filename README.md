@@ -42,11 +42,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
-## 📊 GitHub Streak
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ShubhamSinghRawat10&theme=dark&hide_border=false)
-
----
 ### 📊 Profile Stats
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSinghRawat10&theme=tokyonight" width="800">
