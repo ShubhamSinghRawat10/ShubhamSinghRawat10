@@ -2,8 +2,8 @@
 
 # 🌟 Hii ! I'm Shubham Singh Rawat 🌟</b> 👋  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
-🚀 Learning by building — exploring C, C++, Java, Web Dev  
-🧑‍💻 Working on personal projects, data structures, logic building & open-source
+<h3> Learning by building — exploring C, C++, Java, Web Dev </h3> 
+<h3 align="center" >  "B.Tech CSE Student | Open Source Contributor ( ECWoC'26 ) | Full Stack Learner | UI & UX Designer </h3
 
 </div>
 
@@ -51,9 +51,10 @@
 
 ---
 
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSinghRawat10&" alt="ShubhamSinghRawat10" /></p>
-  
+</div>
+
 ---
 ## 🐍 Snake Eating My Github Contributions 
 ![snake gif](https://github.com/ShubhamSinghRawat10/ShubhamSinghRawat10/blob/output/github-contribution-grid-snake.svg) 
