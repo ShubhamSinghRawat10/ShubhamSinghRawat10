@@ -58,9 +58,12 @@
 
 ## 📊 GitHub Sreak
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ShubhamSinghRawat10&theme=dark&hide_border=false)
-
-
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSinghRawat10&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakLabel=58A6FF" 
+    alt="GitHub Streak" 
+  />
+</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📈 Contribution Graph:
@@ -105,6 +108,16 @@
     <img src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
   </picture>
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# ☕ Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
