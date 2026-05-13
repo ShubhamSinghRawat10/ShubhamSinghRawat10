@@ -49,8 +49,11 @@
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsinghrawat10" alt="shubhamsinghrawat10" /></a> </p>
-
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ShubhamSinghRawat10&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"
+  />
+</p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📊 GitHub Sreak
