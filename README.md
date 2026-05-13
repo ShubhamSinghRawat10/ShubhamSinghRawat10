@@ -42,9 +42,16 @@
 <h1 align="center"></h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<h1 align="center">🏆 GitHub Trophies</h1>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsinghrawat10" alt="shubhamsinghrawat10" /></a> </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 📊 GitHub Sreak
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=ShubhamSinghRawat10&theme=dark&hide_border=false)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
