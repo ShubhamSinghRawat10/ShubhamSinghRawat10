@@ -23,8 +23,8 @@
 
 - ⚡ *Just Building it with a smile*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
    <a href="https://discord.gg/neox0307_06799">
     <img width="40" height="40" alt="discord" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
   </a>
