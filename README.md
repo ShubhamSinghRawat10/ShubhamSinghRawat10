@@ -41,7 +41,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=react,nodejs,typescript,tailwind,mongodb,mysql,python,cpp,git,html,css,c,vercel,aws&theme=light&perline=14&size=120" 
+    src="https://skillicons.dev/icons?i=react,nodejs,typescript,tailwind,mongodb,mysql,python,cpp,git,html,github,css,php,c,vercel,aws&theme=light&perline=16&size=120" 
   />
 </p>
 <h1 align="center"></h1>
