@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/main/epicRoom.gif" width="900"/>
 </p>
 <div align="center">
-...
- 🌟Hiii ! I'm Shubham Singh Rawat ...</b> 👋  
+..
+ 🌟Hiii ! I'm Shubham Singh Rawat ..</b> 👋  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
 <h3> Learning by building — exploring C, C++, Java, Web Dev </h3> 
 <h3 align="center" >  "B.Tech CSE Student | GSSoC'26 (Open Source Contributor) | ECWoC'26 | Full Stack Learner | UI & UX Designer </h3
