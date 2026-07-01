@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/main/epicRoom.gif" width="900"/>
-</p>
+</p> -->
 <div align="center">..
  🌟Hiii ! I'm Shubham Singh Rawat..</b> 👋  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
@@ -46,14 +46,14 @@
 <h1 align="center"></h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h1 align="center">🏆 GitHub Trophies</h1>
+<!-- <h1 align="center">🏆 GitHub Trophies</h1>
 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=ShubhamSinghRawat10&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"
   />
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 ## 📊 GitHub Sreak
 
