@@ -5,7 +5,6 @@
 
 <h1>👋 Hii, I'm Shubham Singh Rawat</h1>
 
-
  <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph-dark.svg">
