@@ -1,39 +1,23 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/main/epicRoom.gif" width="900"/>
 </p> -->
-<div align="center">..
- 🌟Hiii ! I'm Shubham Singh Rawat..</b> 👋  
+<div align="center">
+
+<h1>👋 Hii, I'm Shubham Singh Rawat</h1>
+
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph.svg">
+</picture>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
 <h3> Learning by building — exploring C, C++, Java, Web Dev </h3> 
 <h3 align="center" >  "B.Tech CSE Student | GSSoC'26 (Open Source Contributor) | ECWoC'26 | Full Stack Learner | UI & UX Designer </h3
 
 </div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<h3 align="center"></h3> 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-xc1h.onrender.com/)
-
-- 🚀 Learning by building new projects --- Exploring C , C++ , Full Stack Learner & Open Source Contributor. 
-
-- 📫 How to reach me *shubhamsinghrawat01@gmail.com*
-
-- ⚡ *Just Building it with a smile*
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-   <a href="https://discord.gg/neox0307_06799">
-    <img width="40" height="40" alt="discord" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
-  </a>
-  <a href="https://instagram.com/shubham._.rawat.10">
-    <img width="40" height="40" alt="instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-  </a>
-  <a href="mailto:shubhamsinghrawat01@gmail.com">
-    <img width="40" height="40" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-  </a>
-</p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 align="center">💻 Tech Stack 💻</h2>
@@ -91,13 +75,6 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 🐍 Snake Eating My Github Contributions 
-<div align="center">
-  <img src="https://github.com/ShubhamSinghRawat10/ShubhamSinghRawat10/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🧭 Contribution Journey
 
