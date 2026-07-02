@@ -3,7 +3,7 @@
 </p> -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Shubham%20Singh%20Rawat&fontSize=55&fontColor=00F7F7&stroke=00F7F7&color=0:0D1117,100:161B22"/>
-<!-- </div> -->
+<!-- </div> -->.
  <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph-dark.svg">
