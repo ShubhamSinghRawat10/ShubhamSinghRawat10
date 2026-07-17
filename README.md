@@ -1,7 +1,7 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/main/epicRoom.gif" width="900"/>
 </p> -->
-<div align="center">.
+<div align="center"
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Shubham%20Singh%20Rawat&fontSize=55&fontColor=00F7F7&stroke=00F7F7&color=0:0D1117,100:161B22"/>
 <!-- </div> -->
  <picture>
