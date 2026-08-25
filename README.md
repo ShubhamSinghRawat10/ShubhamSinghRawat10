@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/main/epicRoom.gif" width="900"/>
 </p> -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Shubham%20Singh%20Rawat&fontSize=55&fontColor=00F7F7&stroke=00F7F7&color=0:0D1117,100:161B22"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Shubham%20Singh%20Rawat&fontSize=55&fontColor=F700F7&stroke=F700F7&color=0:0D1117,100:161B22"/>
 <!-- </div> -->
  <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -11,7 +11,7 @@
     src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph.svg"> -->
 </picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF45FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
 <h3> Learning by building — exploring C, C++, Java, Web Dev </h3> 
 <h3 align="center" >  "B.Tech CSE Student | GSSoC'26 (Open Source Contributor) | ECWoC'26 | Full Stack Learner | UI & UX Designer </h3
 
