@@ -7,8 +7,8 @@
  <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph-dark.svg">
-  <!-- <img alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph.svg"> -->
+  <img alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/ShubhamSinghRawat10/ShubhamSinghRawat10/output/pacman-contribution-graph.svg"> 
 </picture>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF45FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Learner+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" /><br>
@@ -28,15 +28,6 @@
 <h1 align="center"></h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!-- <h1 align="center">🏆 GitHub Trophies</h1>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ShubhamSinghRawat10&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"
-  />
-</p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-
 ## 📊 GitHub Sreak
 
 <div align="center">
@@ -45,33 +36,6 @@
     alt="GitHub Streak" 
   />
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 📈 Contribution Graph:
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSinghRawat10&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-</div>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🧭 Contribution Journey
